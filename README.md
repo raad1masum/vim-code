@@ -1,4 +1,4 @@
-vim-code
+vim-code ![build](https://api.travis-ci.com/raad1masum/personal-site.svg?branch=master&status=passed)
 ========
 A vim plugin to quickly open vscode. Just run `:Code`.
 
