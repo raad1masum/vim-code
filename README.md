@@ -33,6 +33,7 @@ Install with your prefered vim plugin manager:
         
 2. Install with `:NeoBundleInstall`
 
+[Vim packages]: https://github.com/junegunn/vim-plug
 [vim-plug]: https://github.com/junegunn/vim-plug
 [Vundle]: https://github.com/VundleVim/Vundle.vim
 [NeoBundle]: https://github.com/Shougo/neobundle.vim
