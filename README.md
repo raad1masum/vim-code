@@ -7,7 +7,7 @@ Installation
 Install with your prefered vim plugin manager:
 
 ### [Vim packages][]
-
+    git clone https://github.com/itchyny/lightline.vim ~/.vim/pack/plugins/start/lightline
 
 ### [vim-plug][]
 
