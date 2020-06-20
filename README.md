@@ -33,7 +33,16 @@ Install with your prefered vim plugin manager:
         
 2. Install with `:NeoBundleInstall`
 
+### [dein.vim][]
+
+1. Add the following configuration to your `.vimrc`.
+
+       call dein#add('raad1masum/vim-code')
+        
+2. Install with `:call dein#install()`
+
 [Vim packages]: https://vimhelp.org/repeat.txt.html#packages
 [vim-plug]: https://github.com/junegunn/vim-plug
 [Vundle]: https://github.com/VundleVim/Vundle.vim
 [NeoBundle]: https://github.com/Shougo/neobundle.vim
+[dein.vim]: https://github.com/Shougo/dein.vim
