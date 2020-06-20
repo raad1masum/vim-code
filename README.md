@@ -8,7 +8,7 @@ Add this line to the bottom of your vimrc:
 ```vim
 map <C-f> <Esc><Esc>:Code<CR>
 ```
-Now you can open VSCode by just pressing ctrl + f.
+Now you can open VSCode by just pressing Ctrl + f.
 
 Installation
 ------------
