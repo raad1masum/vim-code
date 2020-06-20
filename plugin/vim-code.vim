@@ -6,6 +6,8 @@ function Code()
     :!code .
 endfunction
 
+:command Code call Code()
+
 python3 << EOF
 
 import sys
