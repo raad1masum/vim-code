@@ -1,6 +1,13 @@
 vim-code ![build](https://api.travis-ci.com/raad1masum/personal-site.svg?branch=master&status=passed)
 ========
-A vim plugin to quickly open vscode. Just run `:Code`.
+A vim plugin to quickly open VSCode. Just run `:Code`.
+
+Shortcut
+--------
+Add this line to the bottom of your vimrc:
+```vim
+map <C-f> <Esc><Esc>:Code<CR>```
+Now you can open VSCode by just pressing ctrl + f.
 
 Installation
 ------------
