@@ -4,7 +4,10 @@ A vim plugin to quickly open vscode. Just run `:Code`.
 
 Installation
 ------------
-Install with your prefered vim plugin manager.
+Install with your prefered vim plugin manager:
+
+### [Vim packages][]
+
 
 ### [vim-plug][]
 
