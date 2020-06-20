@@ -2,7 +2,9 @@ let s:plugin_root_dir = fnamemodify(resolve(expand('<sfile>:p')), ':h')
 
 let working_file = expand('%:p')
 
-:!code .
+function Code()
+    :!code .
+endfunction
 
 python3 << EOF
 
