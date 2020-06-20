@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm ~/.vim/plugged/vim-code
 
 cd ~/.vim/plugged
