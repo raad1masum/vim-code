@@ -12,7 +12,6 @@ endfunction
 python3 << EOF
 
 import sys
-import os
 from os.path import normpath, join
 import vim
 
