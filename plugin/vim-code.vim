@@ -1,11 +1,13 @@
 let s:plugin_root_dir = fnamemodify(resolve(expand('<sfile>:p')), ':h')
 
 let working_file = expand('%:p')
-echo working_file
+
+:!code .
 
 python3 << EOF
 
 import sys
+import os
 from os.path import normpath, join
 import vim
 
