@@ -1,5 +1,8 @@
 let s:plugin_root_dir = fnamemodify(resolve(expand('<sfile>:p')), ':h')
 
+let working_file = expand('%:p')
+echo working_file
+
 python3 << EOF
 
 import sys
